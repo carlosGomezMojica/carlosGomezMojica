@@ -12,9 +12,12 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/?size=48&id=Rc0Xn5AtE8kX&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=000000"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png&color=000000"> <img src="https://img.icons8.com/?size=48&id=Rc0Xn5AtE8kX&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=000000"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000"/> 
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000"/>
+
+
+<img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=Y9Kxy8Xl1id8&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=106501&format=png&color=000000"/> <img src="https://cdn.prod.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png" width="48">  
 
 <br>
 
