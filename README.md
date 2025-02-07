@@ -1,6 +1,12 @@
 ## Hi👋, My name is Carlos Manuel Gómez
 
-<h3 aling="center">A passionate Backend developer from Tunja, Colombia 🇨🇴</h3>
+<h3 align="center">A passionate Backend developer from Tunja, Colombia 🇨🇴</h3>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosGomezMojica&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Lenguajes más utilizados" />
+</p>
+
 <!--
 **carlosGomezMojica/carlosGomezMojica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
